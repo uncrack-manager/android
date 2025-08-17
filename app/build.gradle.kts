@@ -115,8 +115,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
     implementation("androidx.activity:activity-compose:1.9.0-alpha03")
     implementation("androidx.navigation:navigation-compose:2.8.6")
-    implementation("androidx.compose.animation:animation:1.7.5")
-    implementation("androidx.compose.animation:animation-graphics-android:1.7.5")
+    implementation("androidx.compose.animation:animation:1.9.0")
+    implementation("androidx.compose.animation:animation-graphics-android:1.9.0")
 
 
     // Compose Test
