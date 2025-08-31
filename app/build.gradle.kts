@@ -97,7 +97,7 @@ dependencies {
     val viewModelVersion = "2.5.1"
 
     // Compose
-    val composeBom = platform("androidx.compose:compose-bom:2023.10.01")
+    val composeBom = platform("androidx.compose:compose-bom:2025.08.01")
     implementation(composeBom)
     androidTestImplementation(composeBom)
     implementation("androidx.compose.runtime:runtime")
